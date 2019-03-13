@@ -2,8 +2,8 @@
 /**
  * demo project for github
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (blake)
+ * @version (0.1)
  */
 public class formula
 {
