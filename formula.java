@@ -1,6 +1,6 @@
 
 /**
- * Write a description of class formula here.
+ * demo project for github
  *
  * @author (your name)
  * @version (a version number or a date)
